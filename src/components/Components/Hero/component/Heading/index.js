@@ -19,7 +19,6 @@ export const HeadingHero = () => {
           borderRadius='3px'
           mb='20px'
           letterSpacing='0.93px'
-          className='font-face-sS'
         >
           WEBINAR
         </Badge>
@@ -44,7 +43,6 @@ export const HeadingHero = () => {
         <Text sx={styles}
           fontSize={{ base:'xs', md:'lg' }}
           textTransform='uppercase'
-          className='font-face-sS'
         >
           Miércoles 16 de diciembre | 17 hs (Horario de Quito)
         </Text>
@@ -53,9 +51,8 @@ export const HeadingHero = () => {
   )
 }
 
-
 const styles = {
   maxWidth:'100%',
   margin:'8px 0px',
-  color:'text.greenText'
+  color:'text.greenText',
 }
