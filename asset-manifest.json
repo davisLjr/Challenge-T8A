@@ -1,11 +1,34 @@
 {
   "files": {
-    "main.js": "/Challenge-T8A/static/js/main.37772967.js",
+    "main.css": "/Challenge-T8A/static/css/main.715dc9b5.css",
+    "main.js": "/Challenge-T8A/static/js/main.30b89b24.js",
     "static/js/787.254d0fb2.chunk.js": "/Challenge-T8A/static/js/787.254d0fb2.chunk.js",
     "static/media/three.jpg": "/Challenge-T8A/static/media/three.1199b994ca29607428a2.jpg",
     "static/media/one.jpg": "/Challenge-T8A/static/media/one.3719fd478f1634c26288.jpg",
+    "static/media/SharpSansNo1Medium-Regular.woff": "/Challenge-T8A/static/media/SharpSansNo1Medium-Regular.c21e8083ecdb15286e76.woff",
+    "static/media/SharpSansNo1-Bold.woff": "/Challenge-T8A/static/media/SharpSansNo1-Bold.65c57d50e50439fe36cf.woff",
     "static/media/two.jpg": "/Challenge-T8A/static/media/two.5e7cbc181bafff08a0cf.jpg",
+    "static/media/SharpSansNo1Medium-Regular.woff2": "/Challenge-T8A/static/media/SharpSansNo1Medium-Regular.438c49639528771d9136.woff2",
+    "static/media/SharpSansNo1-Bold.woff2": "/Challenge-T8A/static/media/SharpSansNo1-Bold.0778888e03c81adccf7b.woff2",
+    "static/media/shsn-webfont.woff": "/Challenge-T8A/static/media/shsn-webfont.36dbe9ff40d5b14b9a50.woff",
     "static/media/four.jpg": "/Challenge-T8A/static/media/four.315ea44c6a1f1e17673e.jpg",
+    "static/media/proxima_nova_bold-webfont.woff": "/Challenge-T8A/static/media/proxima_nova_bold-webfont.1be982d26304a13207f8.woff",
+    "static/media/proximanova-regular-webfont.woff": "/Challenge-T8A/static/media/proximanova-regular-webfont.d3d42a65a27f47d0ecd7.woff",
+    "static/media/proxima_nova_extrabold-webfont.woff": "/Challenge-T8A/static/media/proxima_nova_extrabold-webfont.c75707c692e75128363e.woff",
+    "static/media/proxima_nova_black-webfont.woff": "/Challenge-T8A/static/media/proxima_nova_black-webfont.06e6b109729f81b75a87.woff",
+    "static/media/proxima_nova_thin-webfont.woff": "/Challenge-T8A/static/media/proxima_nova_thin-webfont.4a8783dd0a958098b560.woff",
+    "static/media/proxima_nova_alt_bold-webfont.woff": "/Challenge-T8A/static/media/proxima_nova_alt_bold-webfont.042e961e8387f8891543.woff",
+    "static/media/proxima_nova_alt_light-webfont.woff": "/Challenge-T8A/static/media/proxima_nova_alt_light-webfont.cf03b70cab3c6aa8a870.woff",
+    "static/media/proxima_nova_alt_thin-webfont.woff": "/Challenge-T8A/static/media/proxima_nova_alt_thin-webfont.4587f2b6af29ff1aadbe.woff",
+    "static/media/shsn-webfont.woff2": "/Challenge-T8A/static/media/shsn-webfont.41529ba4d5527ff9ed4a.woff2",
+    "static/media/proxima_nova_bold-webfont.woff2": "/Challenge-T8A/static/media/proxima_nova_bold-webfont.bffa792430b66bc55e84.woff2",
+    "static/media/proximanova-regular-webfont.woff2": "/Challenge-T8A/static/media/proximanova-regular-webfont.ec8d0b78d76677d9d88c.woff2",
+    "static/media/proxima_nova_extrabold-webfont.woff2": "/Challenge-T8A/static/media/proxima_nova_extrabold-webfont.9cee30aff41bd01302a2.woff2",
+    "static/media/proxima_nova_black-webfont.woff2": "/Challenge-T8A/static/media/proxima_nova_black-webfont.862f96c084194cb39083.woff2",
+    "static/media/proxima_nova_thin-webfont.woff2": "/Challenge-T8A/static/media/proxima_nova_thin-webfont.5538c78ef35e76980db8.woff2",
+    "static/media/proxima_nova_alt_bold-webfont.woff2": "/Challenge-T8A/static/media/proxima_nova_alt_bold-webfont.e72aab6f89f6ac1a6190.woff2",
+    "static/media/proxima_nova_alt_light-webfont.woff2": "/Challenge-T8A/static/media/proxima_nova_alt_light-webfont.513db806218c7c03585d.woff2",
+    "static/media/proxima_nova_alt_thin-webfont.woff2": "/Challenge-T8A/static/media/proxima_nova_alt_thin-webfont.76b14f7ad3b02aecf5fb.woff2",
     "static/media/checked.png": "/Challenge-T8A/static/media/checked.e2a02f02124dd217a146.png",
     "static/media/cluster.png": "/Challenge-T8A/static/media/cluster.9d33cd2751ab36b2a485.png",
     "static/media/asobanca.png": "/Challenge-T8A/static/media/asobanca.9aff68b54c48b468a4cd.png",
@@ -14,10 +37,12 @@
     "static/media/ipbf.png": "/Challenge-T8A/static/media/ipbf.0245c5f6517ea01e8186.png",
     "static/media/zendesk.png": "/Challenge-T8A/static/media/zendesk.f87a1fc5977bae3b8162.png",
     "index.html": "/Challenge-T8A/index.html",
-    "main.37772967.js.map": "/Challenge-T8A/static/js/main.37772967.js.map",
+    "main.715dc9b5.css.map": "/Challenge-T8A/static/css/main.715dc9b5.css.map",
+    "main.30b89b24.js.map": "/Challenge-T8A/static/js/main.30b89b24.js.map",
     "787.254d0fb2.chunk.js.map": "/Challenge-T8A/static/js/787.254d0fb2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.37772967.js"
+    "static/css/main.715dc9b5.css",
+    "static/js/main.30b89b24.js"
   ]
 }
