@@ -175,7 +175,7 @@ export const Form = () => {
       ) : (
         <>
           <Box sx={styleMain} h='600px' display='flex'>
-              <Success/>
+              <Success setIsSuccess={setIsSuccess}/>
           </Box>
         </>
       )}

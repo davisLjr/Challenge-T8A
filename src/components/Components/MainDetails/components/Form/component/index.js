@@ -1,8 +1,8 @@
 import React from 'react';
-import { Box, Heading, Text,  Image, Link, Button } from '@chakra-ui/react'
+import { Box, Heading, Text,  Image, Button } from '@chakra-ui/react'
 import success from './icon/checked.png'
 
-export const Success = () => {
+export const Success = ({setIsSuccess}) => {
     return(
         <Box 
         width='100%'
@@ -29,14 +29,8 @@ export const Success = () => {
                     te esperamos el miercoles 16 de diciembre <br/>
                     a las 17hs, no lo olvides! 
                 </Text>
-                <Button variant='solidPrimary' w='60%'>
-                    <Link href='/'
-                        _hover={{
-                            textDecoration:'none'
-                        }}
-                    >
-                    Volver
-                    </Link>
+                <Button variant='solidPrimary' w='70%' onClick={setIsSuccess}>
+                    Volver 
                 </Button>
             </Box>
         </Box>
